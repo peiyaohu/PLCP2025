@@ -1,0 +1,7 @@
+"","Var2","group","Down","NotSig","Up"
+"1","-1*HK_water 1*Input","Input.vs.HK_water",3000,19619,2729
+"2","-1*HK_Ecoil 1*Input","Input.vs.HK_Ecoil",2742,19452,3154
+"3","-1*HK_Input 1*Input","Input.vs.HK_Input",2582,21115,1651
+"4","-1*HK_water 1*HK_Input","HK_Input.vs.HK_water",863,22553,1932
+"5","-1*HK_water 1*HK_Ecoil","HK_Ecoil.vs.HK_water",298,24741,309
+"6","-1*HK_Ecoil 1*HK_Input","HK_Input.vs.HK_Ecoil",695,22552,2101
